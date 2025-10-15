@@ -12,6 +12,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.33.4",
     "@neondatabase/serverless": "^1.0.2",
     "@trpc/client": "^11.6.0",
     "@trpc/react-query": "^11.6.0",
